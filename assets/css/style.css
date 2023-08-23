@@ -1,11 +1,25 @@
 /* Chaque dev à une seule version du projet, pour 
 l'exercice nous rasemblons les 3 interactions sur le même fichier */
 
-/* CSS par l'auteur*/
-a{
-    background-color: #fdefdf;
-    position: relative;
-}
+/* CSS de l'auteur */
 img{
     width: 300px;
+}
+/* Ajouts et modifications par Dev1*/
+p {
+    background-color: teal;
+    padding: 5px;
+    color: white;
+    position: absolute;
+    top: 150px ;
+    left: 245px;
+}
+/* Ajouts et modifications par Dev2*/
+h4{
+    background-color:teal;
+    color: white;
+    padding: 5px;
+    position: absolute;
+    top: 0px;
+    left: 10px;
 }
