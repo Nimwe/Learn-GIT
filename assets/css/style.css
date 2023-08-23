@@ -1,0 +1,11 @@
+/* Chaque dev à une seule version du projet, pour 
+l'exercice nous rasemblons les 3 interactions sur le même fichier */
+
+/* CSS par l'auteur*/
+a{
+    background-color: #fdefdf;
+    position: relative;
+}
+img{
+    width: 300px;
+}
